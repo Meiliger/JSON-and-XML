@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<novel>
+		<book id = "1">
+			<title>The Fire Next Time</title>
+			<author>Baldwin, James</author>
+		</book>
+		<book id = "2">
+			<title>Beloved</title>
+			<author>Morris, Toni</author>
+		</book>
+		<book id = "3">
+			<title>The Messiah of Stockholm</title>
+			<author>Ozick, Cynthia</author>
+		</book>
+		<book id = "4">
+			<title>X</title>
+			<author>Davey, Davis</author>
+		</book>
+		<book id = "5">
+			<title>Seduced by Story</title>
+			<author>Peter, Brooks</author>
+		</book>
+	</novel>
+	<sciencefiction>
+		<book id = "1">
+			<title>The Blazing World</title>
+			<author>Margaret, Cavendish</author>
+		</book>
+		<book id = "2">
+			<title>Frankenstein</title>
+			<author>Mary, Shelley</author>
+		</book>
+		<book id = "3">
+			<title>The Stars My Destination</title>
+			<author>Alfred, Bester</author>
+		</book>
+	</sciencefiction>
+	<in_developing>
+		<Action/>
+		<Adventure>King Solomon's Mines</Adventure>
+		<Fantasy/>
+		<Historical language = 'ukrainian' country = 'Ukraine'/>
+		<Thriller/>
+	</in_developing>
+</library>

@@ -1,0 +1,123 @@
+{
+  "Planets": [
+    {
+      "Name": "Mercury",
+      "Mass (10 in 24 kg)": 0.330,
+      "Diameter (km)": 4.879,
+      "Density (kg/m3)": 5427,
+      "Gravity (m/s2)": 3.7,
+      "Length of day (hours)": 4222.6,
+      "Distance to Sun (million km)": 60,
+      "Mean temperature (°C)": 167,
+      "Number of moons": 0,
+      "Ring System": "No",
+      "Global Magnetic Field": "Yes"
+    },
+    {
+      "Name": "Venus",
+      "Mass (10 in 24 kg)": 4.87,
+      "Diameter (km)": 12.104,
+      "Density (kg/m3)": 5243,
+      "Gravity (m/s2)": 8.9,
+      "Length of day (hours)": 2802.0,
+      "Distance to Sun (million km)": 110,
+      "Mean temperature (°C)": 464,
+      "Number of moons": 0,
+      "Ring System": "No",
+      "Global Magnetic Field": "No"
+    },
+    {
+      "Name": "Earth",
+      "Mass (10 in 24 kg)": 5.97,
+      "Diameter (km)": 12.756,
+      "Density (kg/m3)": 5514,
+      "Gravity (m/s2)": 9.8,
+      "Length of day (hours)": 24.0,
+      "Distance to Sun (million km)": 150,
+      "Mean temperature (°C)": 15,
+      "Number of moons": 1,
+      "Ring System": "No",
+      "Global Magnetic Field": "Yes"
+    },
+    {
+      "Name": "Mars",
+      "Mass (10 in 24 kg)": 0.642,
+      "Diameter (km)": 6.792,
+      "Density (kg/m3)": 3933,
+      "Gravity (m/s2)": 3.7,
+      "Length of day (hours)": 24.7,
+      "Distance to Sun (million km)": 230,
+      "Mean temperature (°C)": -65,
+      "Number of moons": 2,
+      "Ring System": "No",
+      "Global Magnetic Field": "No"
+    },
+    {
+      "Name": "Jupiter",
+      "Mass (10 in 24 kg)": 1898,
+      "Diameter (km)": 142.984,
+      "Density (kg/m3)": 1326,
+      "Gravity (m/s2)": 23.1,
+      "Length of day (hours)": 9.9,
+      "Distance to Sun (million km)": 780,
+      "Mean temperature (°C)": -110,
+      "Number of moons": 67,
+      "Ring System": "Yes",
+      "Global Magnetic Field": "Yes"
+    },
+    {
+      "Name": "Saturn",
+      "Mass (10 in 24 kg)": 568,
+      "Diameter (km)": 120.536,
+      "Density (kg/m3)": 687,
+      "Gravity (m/s2)": 9.0,
+      "Length of day (hours)": 10.7,
+      "Distance to Sun (million km)": 1400,
+      "Mean temperature (°C)": -140,
+      "Number of moons": 62,
+      "Ring System": "Yes",
+      "Global Magnetic Field": "Yes"
+    },
+    {
+      "Name": "Uranus",
+      "Mass (10 in 24 kg)": 86.8,
+      "Diameter (km)": 51.118,
+      "Density (kg/m3)": 1271,
+      "Gravity (m/s2)": 8.7,
+      "Length of day (hours)": 17.2,
+      "Distance to Sun (million km)": 2900,
+      "Mean temperature (°C)": -195,
+      "Number of moons": 27,
+      "Ring System": "Yes",
+      "Global Magnetic Field": "Yes"
+    },
+    {
+      "Name": "Neptune",
+      "Mass (10 in 24 kg)": 102,
+      "Diameter (km)": 49.528,
+      "Density (kg/m3)": 1638,
+      "Gravity (m/s2)": 11.0,
+      "Length of day (hours)": 16.1,
+      "Distance to Sun (million km)": 4500,
+      "Mean temperature (°C)": -200,
+      "Number of moons": 14,
+      "Ring System": "Yes",
+      "Global Magnetic Field": "Yes"
+    }
+  ],
+  "Dwarf planets": [
+    {
+      "Name": "Pluto",
+      "Mass (10 in 24 kg)": 0.0146,
+      "Diameter (km)": 2.370,
+      "Density (kg/m3)": 2095,
+      "Gravity (m/s2)": 0.7,
+      "Length of day (hours)": 153.3,
+      "Distance to Sun (million km)": 6000,
+      "Mean temperature (°C)": -225,
+      "Number of moons": 5,
+      "Ring System": "No",
+      "Global Magnetic Field": "Unknown"
+    }
+  ]
+}
